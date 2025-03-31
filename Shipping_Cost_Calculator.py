@@ -1,7 +1,4 @@
-# Here is a new update by wdarren
-# Here is another update by <your GitHub username>
-
-
+ # Here is a new update by wdarren
 
 
 # Shipping Cost Calculator
